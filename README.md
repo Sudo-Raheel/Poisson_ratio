@@ -1,5 +1,6 @@
 # Predicting Poisson’s Ratio:A Study of Semisupervised Anomaly Detection and Supervised Approaches
 The code given here implements the models discussed in the following paper
+.
 [Download it from here for free](https://pubs.acs.org/doi/10.1021/acsomega.3c08861)
 ## How to cite
 Please cite using 
