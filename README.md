@@ -4,6 +4,7 @@ The code given here implements the models discussed in the following paper
 ## How to cite
 Please cite using 
 
+```
 @article{doi:10.1021/acsomega.3c08861,
 author = {Hammad, Raheel and Mondal, Sownyak},
 title = {Predicting Poisson’s Ratio: A Study of Semisupervised Anomaly Detection and Supervised Approaches},
@@ -16,3 +17,4 @@ doi = {10.1021/acsomega.3c08861},
 URL = {https://doi.org/10.1021/acsomega.3c08861},
 eprint = {https://doi.org/10.1021/acsomega.3c08861}
 }
+```
