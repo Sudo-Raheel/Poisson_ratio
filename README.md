@@ -1,5 +1,5 @@
 # Predicting Poisson’s Ratio:A Study of Semisupervised Anomaly Detection and Supervised Approaches
-The code given here implements the models discussed in the following paper.
+The code given here implements the models discussed in the following paper. It shows the application of semi-supervised anomaly detection algorithms for Material Science Problem
 
 [Download it from here for free](https://pubs.acs.org/doi/10.1021/acsomega.3c08861)
 ## How to cite
