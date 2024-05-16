@@ -3,7 +3,7 @@ The code given here implements the models discussed in the following paper. Cont
 
 [Download it from here for free](https://pubs.acs.org/doi/10.1021/acsomega.3c08861)
 ## How to cite
-Please cite using 
+Please cite using  
 
 ```
 @article{doi:10.1021/acsomega.3c08861,
